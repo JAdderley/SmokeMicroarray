@@ -1,0 +1,5 @@
+{
+    "local_dir": "./SmokeAnalysis/",
+    "output_dir_sheets": "./SmokeAnalysis/sheets/",
+    "output_dir_figures": "./SmokeAnalysis/figures/"
+}
